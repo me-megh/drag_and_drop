@@ -1,0 +1,10 @@
+/* Styling for the grid area where tables are dropped */
+.grid-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  position: relative;
+}
